@@ -1,0 +1,188 @@
+{
+    "anims": [
+        {
+            "key": "run",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "samourail",
+                    "frame": "run_1"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "run_2"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "run_3"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "run_4"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "run_5"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "run_6"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "run_7"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "run_8"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "run_9"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "run_10"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "run_11"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "run_12"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "run_13"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "run_14"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "run_15"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "run_16"
+                }
+            ]
+        },
+        {
+            "key": "idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "samourail",
+                    "frame": "idle_1"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "idle_2"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "idle_3"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "idle_4"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "idle_5"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "idle_6"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "idle_7"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "idle_8"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "idle_9"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "idle_10"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "run_1"
+                }
+            ]
+        },
+        {
+            "key": "hurt",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "samourail",
+                    "frame": "hurt_1"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "hurt_2"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "hurt_3"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "hurt_4"
+                }
+            ]
+        },
+        {
+            "key": "attack",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "samourail",
+                    "frame": "attack_1"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "attack_2"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "attack_3"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "attack_4"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "attack_5"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "attack_6"
+                },
+                {
+                    "key": "samourail",
+                    "frame": "attack_7"
+                }
+            ]
+        }
+    ]
+}
